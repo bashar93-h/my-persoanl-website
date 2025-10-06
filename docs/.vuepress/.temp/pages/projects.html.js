@@ -1,0 +1,3 @@
+import comp from "C:/Users/ASB/Desktop/my-personal-website/docs/.vuepress/.temp/pages/projects.html.vue"
+const data = JSON.parse("{\"path\":\"/projects.html\",\"title\":\"Projects\",\"lang\":\"en-US\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759695798000,\"contributors\":[{\"name\":\"Bashar\",\"username\":\"Bashar\",\"email\":\"basharabulaziz25@gmail.com\",\"commits\":1,\"url\":\"https://github.com/Bashar\"}],\"changelog\":[{\"hash\":\"51ad4bab653d54bb284ce05da2a64a2dadb6144d\",\"time\":1759695798000,\"email\":\"basharabulaziz25@gmail.com\",\"author\":\"Bashar\",\"message\":\"Initial commit: CV website with VuePress\"}]},\"filePathRelative\":\"projects.md\"}")
+export { comp, data }

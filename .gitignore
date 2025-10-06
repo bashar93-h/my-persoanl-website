@@ -1,0 +1,4 @@
+# This keeps unnecessary files out of your repo.
+node_modules
+# dist
+.env
