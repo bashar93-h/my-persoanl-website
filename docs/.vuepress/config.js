@@ -21,5 +21,5 @@ export default defineUserConfig({
     ],
     sidebarDepth: 2, // shows headers within pages
   }),
-  base: "/", // change to "/repo-name/" if deploying to GitHub Pages
+  base: "/my-persoanl-website/",
 });
